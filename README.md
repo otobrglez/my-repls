@@ -13,3 +13,20 @@ Tools used:
 - [active_record](https://guides.rubyonrails.org/active_record_basics.html)
 - [active_support](https://guides.rubyonrails.org/active_support_core_extensions.html)
 
+
+## REPL session with Scala (and Ammonite)
+
+![REPL session with Scala and Ammonite](./amm-repl.gif)
+
+Tools used:
+
+- [Ammonite-REPL](https://ammonite.io/#Ammonite-REPL)
+- [Scala-CLI](https://scala-cli.virtuslab.org/)
+
+## REPL session with Node.js
+
+![REPL session with Node.js](./node-repl.gif)
+
+## Author
+
+- [Oto Brglez](https://github.com/otobrglez)

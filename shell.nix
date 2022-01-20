@@ -5,6 +5,9 @@ stdenv.mkDerivation {
     buildInputs = [
        ruby
        nodejs-16_x
+       scala-cli
+       jdk17_headless
+       sbt
     ];
     shellHook = ''
         export PATH="$PWD/node_modules/.bin/:$PATH"
